@@ -124,7 +124,7 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 - Built using Python's `tkinter` library for the GUI.
 - Thanks to the `tkcalendar` library for providing a user-friendly date picker.
-- Inspired by beginner-friendly Python projects to help developers enhance their skills.
+
 
 ---
 
